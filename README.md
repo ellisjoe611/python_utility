@@ -1,2 +1,2 @@
-# python_study
-Python study repository
+# My Python Utility
+Python Utility repository
